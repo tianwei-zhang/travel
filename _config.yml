@@ -38,3 +38,5 @@ paginate: 5
 # Sass
 sass:
     style: :compressed
+
+keep_files: ["/2017/04/02/Vancouver/img/."]
