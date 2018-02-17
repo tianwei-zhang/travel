@@ -2,7 +2,7 @@
 layout: post
 title: "Vancouver"
 date: 2017-04-02
-location, Vancouver, Canada
+location: Vancouver, Canada
 ---
 
 In April 2017, I need to stamp my H1B visa for the first time. I visited Vancouver, BC for the first time, traveling solo. It was a wonderful trip. I fell in love with the scenic views of the Pacific Ocean and Canadian Rocky Mountain. 
@@ -11,7 +11,4 @@ I stayed at the Sheraton Wall Centre for a week, and got upgrade to a junior sui
 
 In this blog, I will detail the places I visited. It serves as a place of my memory and a potential guide for future Vancouver visitors.
 
-<div class="post-image">
-   <img src="/img/vancouver/map.png" alt="A full-size image example" />
-   <p class="post-image-caption">Places visited in Vancouver</p>
-</div>
+![map](/img/vancouver/map.png)
