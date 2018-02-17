@@ -4,10 +4,10 @@
     <title>Travelog</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://localhost:4000/travel/</link>
-    <atom:link href="http://localhost:4000/travel/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Feb 2018 16:43:10 -0500</pubDate>
-    <lastBuildDate>Sat, 17 Feb 2018 16:43:10 -0500</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 17 Feb 2018 18:17:08 -0500</pubDate>
+    <lastBuildDate>Sat, 17 Feb 2018 18:17:08 -0500</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
@@ -18,12 +18,165 @@
 
 &lt;p&gt;In this blog, I will detail the places I visited. It serves as a place of my memory and a potential guide for future Vancouver visitors.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/vancouver_map.png&quot; alt=&quot;map&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/vancouver_map.png&quot; alt=&quot;A full-size image example&quot; /&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt;Places visited in Vancouver&lt;/p&gt;
+&lt;/div&gt;
 
+&lt;p&gt;The first place I visited is Canada Place. It is riverside walk with beautiful view to the Rocky Mountain.&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/1.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt;Apartment buildings near Canada Place&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/2.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt;View of the Canadian Rocky Mountain&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/3.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt;Canada Place&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/4.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt;Canada Place&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/5.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt;Shipyard near Canada Place&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Next, I headed up north to visit the beautiful Standley Park, one of the largest metropolitan parks in North America. I walked 5 hours for a complete route. I highly recommend a bike. The view is amazing but it gets repetitive after the first hour.&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/6.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/7.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/8.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/9.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/10.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/11.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/12.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/13.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;During my trip, I had to visit the US consulate for my visa interview so I did visit one place after another. I spent half-day in Canada Place and a whole day in Standley Park (did not rent a bike). Luckily, there are several good restaurants near Standley Park after a long day of walking.&lt;/p&gt;
+
+&lt;p&gt;Next, I took a ferry to Granville Island. It is a fun place with shops for snacks and souvenirs. Coming from the US, I did not find the merchandise there particularly interesting.&lt;/p&gt;
+
+&lt;p&gt;My next stop is ‎⁨Capilano Provincial Park⁩. It is outside of the city; you can take a bus or a taxi to get there. The park is well-maintained and the gardeners carefully arrange the plants to create photogenic views. There is an entrance fee (~$50?) but it is well worth it. It is a must-visit for outdoor lovers!&lt;/p&gt;
+
+&lt;div class=&quot;post-image post-image--split&quot;&gt;
+    &lt;img src=&quot;img/vancouver/14.jpg&quot; alt=&quot;The first in an example of split-imagery&quot; /&gt;
+    &lt;img src=&quot;img/vancouver/21.jpg&quot; alt=&quot;The second in an example of split-imagery&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/15.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/16.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/17.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/18.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/19.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/20.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/22.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/23.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/24.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I probably spent an entire afternoon in Capilano park. There are so many spots to take beautiful photos; it is a photographer’s heaven.&lt;/p&gt;
+
+&lt;p&gt;For the next attraction, I headed south from Sheraton Wall Centre and visited ‎⁨Dr. Sun Yat-Sen Classical Chinese Garden⁩. Being a Chinese, I have visited many classical Chinese gardens in southern China. Dr. Sun Yat-Sen’s Garden closely resembles the scholar gardens I saw in Hangzhou and Suzhou, China. I was impressed to see such a classical Chinese building outside of China. The entrance fee is quite cheap. I suggest spend an hour or two in this location.&lt;/p&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/25.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/26.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/27.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/28.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/29.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/30.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/31.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I also visited University of British Columbia and Queen Elizabeth’s park. Both are nice and worth a visit if you have time.&lt;/p&gt;
+
+&lt;p&gt;This is almost the end of this blog post. I want to tell you my favorite place in Vancouver and how I found it. I was heading to the shopping district, and stumbled upon an old-looking bookstore. Looking through the glass windows, my first impression was the magical bookstore Flourish &amp;amp; Blotts from Diagon Alley (Harry Potter). I am a big fun of old books, and I had to go in. It is a quiet bookstore without many people around. There are books on the shelf, piled up on the floor, and locked away in the basement. I picked up my first book, turned to the first page, and it was published in 1930s. It is a book older than my grandparent! There are many books older than 100 years in that store. I bought a set of History of England by James Anthony Froude. The name of the bookstore is MacLeod’s Books.&lt;/p&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/32.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;At last, I want to share some beautiful views from my hotel room at Sheraton Wall Centre. Thank you for reading!&lt;/p&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/33.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/34.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/vancouver/35.jpg&quot; alt=&quot;A full-size image example&quot; /&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Sun, 02 Apr 2017 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/travel/2017/04/02/Vancouver/</link>
-        <guid isPermaLink="true">http://localhost:4000/travel/2017/04/02/Vancouver/</guid>
+        <link>http://localhost:4000/2017/04/02/Vancouver/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/04/02/Vancouver/</guid>
         
         
       </item>
@@ -45,8 +198,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 15 Nov 2015 07:05:14 -0500</pubDate>
-        <link>http://localhost:4000/travel/jekyll/theme/2015/11/15/the-galileo-theme/</link>
-        <guid isPermaLink="true">http://localhost:4000/travel/jekyll/theme/2015/11/15/the-galileo-theme/</guid>
+        <link>http://localhost:4000/jekyll/theme/2015/11/15/the-galileo-theme/</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/theme/2015/11/15/the-galileo-theme/</guid>
         
         
         <category>jekyll</category>
