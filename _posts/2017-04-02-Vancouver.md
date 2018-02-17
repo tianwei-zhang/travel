@@ -11,4 +11,5 @@ I stayed at the Sheraton Wall Centre for a week, and got upgrade to a junior sui
 
 In this blog, I will detail the places I visited. It serves as a place of my memory and a potential guide for future Vancouver visitors.
 
-![map](/img/vancouver/map.png)
+![map](/img/vancouver_map.png)
+
