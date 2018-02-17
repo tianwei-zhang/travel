@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Feb 2018 18:24:18 -0500</pubDate>
-    <lastBuildDate>Sat, 17 Feb 2018 18:24:18 -0500</lastBuildDate>
+    <pubDate>Sat, 17 Feb 2018 18:36:09 -0500</pubDate>
+    <lastBuildDate>Sat, 17 Feb 2018 18:36:09 -0500</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
@@ -175,8 +175,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 02 Apr 2017 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2017/04/02/Vancouver/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/04/02/Vancouver/</guid>
+        <link>http://localhost:4000/Vancouver</link>
+        <guid isPermaLink="true">http://localhost:4000/Vancouver</guid>
         
         
       </item>
@@ -198,8 +198,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 15 Nov 2015 07:05:14 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/theme/2015/11/15/the-galileo-theme/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/theme/2015/11/15/the-galileo-theme/</guid>
+        <link>http://localhost:4000/the-galileo-theme</link>
+        <guid isPermaLink="true">http://localhost:4000/the-galileo-theme</guid>
         
         
         <category>jekyll</category>

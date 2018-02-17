@@ -18,6 +18,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl:  # the subpath of your site, e.g. /blog
 url: "http://tianwei-zhang.github.io/travel" # the base hostname & protocol for your site
 
+
 # Picturefill
 # A responsive image polyfill: http://scottjehl.github.io/picturefill/
 picturefill: false
@@ -30,7 +31,10 @@ typekit_kit_id: kwf5dox
 # Build settings
 gems: [jekyll-paginate]
 markdown: kramdown
-permalink: pretty
+
+source: .
+destination: ./_site
+permalink: /:title
 
 # Pagination
 paginate: 5
