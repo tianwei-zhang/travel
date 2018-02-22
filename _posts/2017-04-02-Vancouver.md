@@ -5,18 +5,18 @@ date: 2017-04-02
 location: Vancouver, Canada
 ---
 
-In April 2017, I need to stamp my H1B visa for the first time. I visited Vancouver, BC for the first time, traveling solo. It was a wonderful trip. I fell in love with the scenic views of the Pacific Ocean and Canadian Rocky Mountain. 
+In April 2017, I visited Vancouver, BC for the first time to stamp my H1B visa, traveling solo. It was a wonderful trip. I fell in love with the scenic views of the Pacific Ocean and Canadian Rocky Mountain. 
 
-I stayed at the Sheraton Wall Centre for a week, and got upgrade to a junior suite. The view is fantastic, with windows facing both the ocean and the Rocky Mountain. I also love their free food in the lounge. It is the best Sheraton I have stayed so far. 
+I stayed at the Sheraton Wall Centre for a week, and got upgrade to a junior suite. The view was fantastic, with windows facing both the ocean and the Rocky Mountain. I also loved their free food in the lounge. It was the best Sheraton I had stayed so far. 
 
-In this blog, I will detail the places I visited. It serves as a place of my memory and a potential guide for future Vancouver visitors.
+In this blog, I will detail the places I visited. It serves as a place for holding my memory and a potential guide for future Vancouver visitors.
 
 <div class="post-image">
     <img src="img/vancouver/vancouver_map.png" alt="A full-size image example" />
     <p class="post-image-caption">Places visited in Vancouver</p>
 </div>
 
-The first place I visited is Canada Place. It is riverside walk with beautiful view to the Rocky Mountain.
+The first place I visited is Canada Place. It is a riverside walk with beautiful view to the Rocky Mountain.
 
 <div class="post-image">
     <img src="img/vancouver/1.jpg" alt="A full-size image example" />
@@ -35,15 +35,13 @@ The first place I visited is Canada Place. It is riverside walk with beautiful v
 
 <div class="post-image">
     <img src="img/vancouver/4.jpg" alt="A full-size image example" />
-    <p class="post-image-caption">Canada Place</p>
 </div>
 
 <div class="post-image">
     <img src="img/vancouver/5.jpg" alt="A full-size image example" />
-    <p class="post-image-caption">Shipyard near Canada Place</p>
 </div>
 
-Next, I headed up north to visit the beautiful Standley Park, one of the largest metropolitan parks in North America. I walked 5 hours for a complete route. I highly recommend a bike. The view is amazing but it gets repetitive after the first hour.
+Next, I headed up north to visit the beautiful Standley Park, one of the largest metropolitan parks in North America. I walked 5 hours for a complete route. I highly recommend renting a bike. The view is amazing but it gets repetitive after the first hour.
 
 <div class="post-image">
     <img src="img/vancouver/6.jpg" alt="A full-size image example" />
@@ -81,7 +79,7 @@ During my trip, I had to visit the US consulate for my visa interview so I did n
 
 Next, I took a ferry to Granville Island. It is a fun place with shops for snacks and souvenirs. Coming from the US, I did not find the merchandise there particularly interesting. 
 
-My next stop is ‎⁨Capilano Provincial Park⁩. It is outside of the city; you can take a bus or a taxi to get there. The park is well-maintained and the gardeners carefully arrange the plants to create photogenic views. There is an entrance fee (~$50?) but it is well worth it. It is a must-visit for outdoor lovers!
+My next stop was ‎⁨Capilano Provincial Park⁩. It is outside of the city; you can take a bus or a taxi to get there. The park is well-maintained and the gardeners carefully arrange the plants to create photogenic views. There is an entrance fee (~$50?) but it is well worth it. It is a must-visit for outdoor lovers!
 
 <div class="post-image post-image--split">
     <img src="img/vancouver/14.jpg" alt="The first in an example of split-imagery" />
@@ -151,7 +149,7 @@ For the next attraction, I headed south from Sheraton Wall Centre and visited �
 
 I also visited University of British Columbia and Queen Elizabeth's park. Both are nice and worth a visit if you have time.
 
-This is almost the end of this blog post. I want to tell you my favorite place in Vancouver and how I found it. I was heading to the shopping district, and stumbled upon an old-looking bookstore. Looking through the glass windows, my first impression was the magical bookstore Flourish & Blotts from Diagon Alley (Harry Potter). I am a big fun of old books, and I had to go in. It is a quiet bookstore without many people around. There are books on the shelf, piled up on the floor, and locked away in the basement. I picked up my first book, turned to the first page, and it was published in 1930s. It is a book older than my grandparent! There are many books older than 100 years in that store. I bought a set of History of England by James Anthony Froude. The name of the bookstore is MacLeod's Books. 
+At the end of this blog, I want to tell you my favorite place in Vancouver and how I found it. I was heading to the shopping district, and stumbled upon an old-looking bookstore. Looking through the glass windows, my first impression was the magical bookstore Flourish & Blotts from Diagon Alley (Harry Potter). I am a big fun of old books, and I had to go in. It is a quiet bookstore without many people around. There are books on the shelf, piled up on the floor, and locked away in the basement. I picked up my first book, turned to the first page, and it was published in 1930s. It is a book older than my grandparent! There are many books older than 100 years in that store. I bought a set of History of England by James Anthony Froude. The name of the bookstore is MacLeod's Books. 
 <div class="post-image">
     <img src="img/vancouver/32.jpg" alt="A full-size image example" />
 </div>
