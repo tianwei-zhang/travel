@@ -29,7 +29,7 @@ picturefill: false
 typekit_kit_id: kwf5dox
 
 # Build settings
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 markdown: kramdown
 
 source: .
