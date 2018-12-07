@@ -21,7 +21,7 @@ url: "http://tianwei-zhang.github.io/travel" # the base hostname & protocol for 
 
 # Picturefill
 # A responsive image polyfill: http://scottjehl.github.io/picturefill/
-picturefill: false
+picturefill: true
 
 # Typography
 # To use, publish a kit and enter the ID here. If you do not wish to use Typekit,
@@ -44,3 +44,14 @@ sass:
     style: :compressed
 
 keep_files: ["/2017/04/02/Vancouver/img/."]
+
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - any_additional_item # any user-specific listing goes at the end
