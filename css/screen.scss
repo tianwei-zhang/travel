@@ -17,29 +17,29 @@ $text-color:       #222;
 $caption-text-color: #444;
 $border-color: #979797;
 $background-color: #fefefe;
-$content-width:    750px;
+$content-width:    900px;
 $hover-color: #443E40;
 $legal-color: #818181;
 
 // Layout
-$layout-width: 750px;
+$layout-width: 900px;
 
 // Breakpoints
 $desktop-breakpoint: $layout-width / 0.9;
 $image-splitting-breakpoint: 510px;
 
 // Banner
-$banner-width: 182px;
-$banner-height: 503px;
+$banner-width: 1200px;
+$banner-height: 700px;
 $banner-margin: 50px;
-$banner-border-width: 3px;
-$banner-border-offset: 2px;
+$banner-border-width: 0px;
+$banner-border-offset: 10px;
 
 // Images
 // Note that extensions are omitted for use in retina-background-image mixin
 $img-separator: '{{ site.baseurl }}/img/separator';
-$img-banner: '{{ site.baseurl }}/img/banner';
-// $img-banner: '{{ site.baseurl }}/img/vancouver/3';
+//$img-banner: '{{ site.baseurl }}/img/banner';
+$img-banner: '{{ site.baseurl }}/img/japan/kyoto/DSC00862';
 $img-dude: '{{ site.baseurl }}/img/dude';
 $img-location: '{{ site.baseurl }}/img/icon-location';
 
