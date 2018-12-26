@@ -6,9 +6,42 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Dec 2018 00:37:39 -0800</pubDate>
-    <lastBuildDate>Sun, 16 Dec 2018 00:37:39 -0800</lastBuildDate>
+    <pubDate>Tue, 25 Dec 2018 21:20:54 -0800</pubDate>
+    <lastBuildDate>Tue, 25 Dec 2018 21:20:54 -0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Big Sur</title>
+        <description>&lt;p&gt;I drove to Julia Pfeiffer Burns State Park. Here are the pictures along the California Highway 1.&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/big_sur/DSC01450.png&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/big_sur/DSC01433.png&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/big_sur/DSC01400.png&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/big_sur/DSC01414.png&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/big_sur/DSC01364.png&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/big_sur/DSC01371.png&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/big_sur/DSC01347.png&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 18 Nov 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/Big-Sur</link>
+        <guid isPermaLink="true">http://localhost:4000/Big-Sur</guid>
+        
+        
+      </item>
     
       <item>
         <title>Japan</title>

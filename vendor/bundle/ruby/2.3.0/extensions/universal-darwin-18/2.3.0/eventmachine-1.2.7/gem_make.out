@@ -1,0 +1,24 @@
+current directory: /Users/tianweizhang/Documents/GitHub/travel/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20181225-77020-1528t6.rb extconf.rb
+Ignoring eventmachine-1.2.5 because its extensions are not built.  Try: gem pristine eventmachine --version 1.2.5
+Ignoring ffi-1.9.25 because its extensions are not built.  Try: gem pristine ffi --version 1.9.25
+Ignoring ffi-1.9.21 because its extensions are not built.  Try: gem pristine ffi --version 1.9.21
+Ignoring http_parser.rb-0.6.0 because its extensions are not built.  Try: gem pristine http_parser.rb --version 0.6.0
+creating Makefile
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Users/tianweizhang/Documents/GitHub/travel/vendor/bundle/ruby/2.3.0/extensions/universal-darwin-18/2.3.0/eventmachine-1.2.7/mkmf.log
+
+current directory: /Users/tianweizhang/Documents/GitHub/travel/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/tianweizhang/Documents/GitHub/travel/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/tianweizhang/Documents/GitHub/travel/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20181225-77020-1rpo0hl
