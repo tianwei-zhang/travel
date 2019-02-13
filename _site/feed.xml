@@ -6,9 +6,122 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Dec 2018 21:20:54 -0800</pubDate>
-    <lastBuildDate>Tue, 25 Dec 2018 21:20:54 -0800</lastBuildDate>
+    <pubDate>Wed, 13 Feb 2019 00:12:46 -0800</pubDate>
+    <lastBuildDate>Wed, 13 Feb 2019 00:12:46 -0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Point Reyes</title>
+        <description>&lt;p&gt;On a Feburary weekend, I visited Point Reyes north of San Francisco.&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/point_reyes/DSC01831.png&quot; /&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt;Chimney Rock Trail&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/point_reyes/DSC01829.png&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/point_reyes/DSC01844.png&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/point_reyes/DSC01866.png&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/point_reyes/DSC01813.png&quot; /&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt;Cypress Tree Tunnel&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;It was raining lightly that day. I saw five or six rainbows on my way back. It was rainbow Sunday!&lt;/p&gt;
+
+&lt;div class=&quot;post-image post-image--split&quot;&gt;
+    &lt;img src=&quot;img/point_reyes/IMG_0495.png&quot; /&gt;
+    &lt;img src=&quot;img/point_reyes/IMG_0501.png&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/point_reyes/IMG_0493.png&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 03 Feb 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/Point-Reyes</link>
+        <guid isPermaLink="true">http://localhost:4000/Point-Reyes</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Half Moon Bay</title>
+        <description>&lt;p&gt;On New Year’s Day in 2019, I went to Half Moon Bay to see sunset. It is beautiful.&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/half_moon_bay/DSC01613.png&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/half_moon_bay/DSC01615.png&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/half_moon_bay/DSC01627.png&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/half_moon_bay/DSC01636.png&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/half_moon_bay/DSC01637.png&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/half_moon_bay/DSC01644.png&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image post-image--split&quot;&gt;
+    &lt;img src=&quot;img/half_moon_bay/DSC01655.png&quot; /&gt;
+    &lt;img src=&quot;img/half_moon_bay/DSC01682.png&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/Half-Moon-Bay</link>
+        <guid isPermaLink="true">http://localhost:4000/Half-Moon-Bay</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Muri Woods National Monument</title>
+        <description>&lt;p&gt;During the Christmas holiday in 2018, I visited Muri Woods National Monument. Remember to reserve parking online!&lt;/p&gt;
+
+&lt;div class=&quot;post-image post-image--split&quot;&gt;
+    &lt;img src=&quot;img/muri/DSC01593.png&quot; /&gt;
+    &lt;img src=&quot;img/muri/DSC01546.png&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/muri/DSC01574.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image post-image--split&quot;&gt;
+    &lt;img src=&quot;img/muri/DSC01508.png&quot; /&gt;
+    &lt;img src=&quot;img/muri/DSC01606.png&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;img/muri/DSC01516.png&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 29 Dec 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/Muri-Woods</link>
+        <guid isPermaLink="true">http://localhost:4000/Muri-Woods</guid>
+        
+        
+      </item>
     
       <item>
         <title>Big Sur</title>
