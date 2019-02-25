@@ -1,5 +1,5 @@
 current directory: /Users/tianweizhang/Documents/GitHub/travel/vendor/bundle/ruby/2.3.0/gems/ffi-1.10.0/ext/ffi_c
-/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190224-28395-1opn320.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190224-35876-pjf6h2.rb extconf.rb
 checking for ffi.h... no
 checking for ffi.h in /usr/local/include,/usr/include/ffi... no
 checking for shlwapi.h... no
@@ -102,6 +102,7 @@ Making all in testsuite
 make[3]: Nothing to be done for `all'.
 Making all in man
 make[3]: Nothing to be done for `all'.
+make[3]: Nothing to be done for `all-am'.
 compiling AbstractMemory.c
 compiling ArrayType.c
 compiling Buffer.c
@@ -136,4 +137,4 @@ compiling Variadic.c
 compiling ffi.c
 linking shared-object ffi_c.bundle
 ld: warning: could not create compact unwind for _ffi_call_unix64: does not use RBP or RSP based frame
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20190224-28395-19ori0k
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20190224-35876-cvkm6n
