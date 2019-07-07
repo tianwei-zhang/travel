@@ -6,13 +6,15 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Jul 2019 01:12:58 -0700</pubDate>
-    <lastBuildDate>Sun, 07 Jul 2019 01:12:58 -0700</lastBuildDate>
+    <pubDate>Sun, 07 Jul 2019 02:08:52 -0700</pubDate>
+    <lastBuildDate>Sun, 07 Jul 2019 02:08:52 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>EDF Wind Farm</title>
         <description>&lt;p&gt;When I visited Mt Diablo, I saw an expansive wind farm on the summit. It is located in Birds Landing, south of Sacramento.&lt;/p&gt;
+
+&lt;iframe src=&quot;//rcm-na.amazon-adsystem.com/e/cm?o=1&amp;amp;p=48&amp;amp;l=ur1&amp;amp;category=camera&amp;amp;banner=19BENSW5HYBZ4GW74NG2&amp;amp;f=ifr&amp;amp;linkID=ff9663dfb0b929bdf85b078f51dcf421&amp;amp;t=travelog008-20&amp;amp;tracking_id=travelog008-20&quot; width=&quot;728&quot; height=&quot;90&quot; scrolling=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; style=&quot;border:none;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
 &lt;div class=&quot;post-image&quot;&gt;
     &lt;img src=&quot;img/windfarm/DSC02420.png&quot; /&gt;
@@ -50,6 +52,9 @@
       <item>
         <title>Mount Diablo</title>
         <description>&lt;p&gt;Mt Diablo is one of the highest points in San Francisco Bay Area. On a clear day, you can even see Sierra Nevada! I drove to the summit. The view along the way is breathtaking!&lt;/p&gt;
+
+&lt;div id=&quot;amzn-assoc-ad-bc8e9634-2454-4b9c-9078-27f3b7eedb47&quot;&gt;&lt;/div&gt;
+&lt;script async=&quot;&quot; src=&quot;//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;amp;adInstanceId=bc8e9634-2454-4b9c-9078-27f3b7eedb47&quot;&gt;&lt;/script&gt;
 
 &lt;div class=&quot;post-image&quot;&gt;
     &lt;img src=&quot;img/mt_diablo/DSC02308.png&quot; /&gt;
