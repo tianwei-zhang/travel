@@ -8,13 +8,13 @@
 # Site settings
 title: Travelog
 author: Tianwei Zhang
-author_link: http://tianwei-zhang.github.io
+author_link: http://tianwei-zhang.github.io/travel
 author_description: It is better to travel ten thousand miles than to read ten thousand books
 email: kevinzhang122@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Travel the world, discover new places, and meet amazing friends.
-baseurl:  # the subpath of your site, e.g. /blog
-url: "http://tianwei-zhang.github.io/travel" # the base hostname & protocol for your site
+baseurl:  /travel
+url: "http://tianwei-zhang.github.io" # the base hostname & protocol for your site
 
 
 # Picturefill
