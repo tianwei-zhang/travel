@@ -13,8 +13,8 @@ author_description: It is better to travel ten thousand miles than to read ten t
 email: kevinzhang122@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Travel the world, discover new places, and meet amazing friends.
-baseurl:  /travel
-url: "http://tianwei-zhang.github.io" # the base hostname & protocol for your site
+baseurl:
+url: "http://tianwei-zhang.github.io/travel" # the base hostname & protocol for your site
 
 
 # Picturefill
