@@ -6,15 +6,28 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Jul 2019 02:51:38 -0700</pubDate>
-    <lastBuildDate>Sun, 07 Jul 2019 02:51:38 -0700</lastBuildDate>
+    <pubDate>Sun, 07 Jul 2019 03:07:52 -0700</pubDate>
+    <lastBuildDate>Sun, 07 Jul 2019 03:07:52 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>EDF Wind Farm</title>
         <description>&lt;p&gt;When I visited Mt Diablo, I saw an expansive wind farm on the summit. It is located in Birds Landing, south of Sacramento.&lt;/p&gt;
 
-&lt;iframe src=&quot;//rcm-na.amazon-adsystem.com/e/cm?o=1&amp;amp;p=48&amp;amp;l=ur1&amp;amp;category=camera&amp;amp;banner=19BENSW5HYBZ4GW74NG2&amp;amp;f=ifr&amp;amp;linkID=ff9663dfb0b929bdf85b078f51dcf421&amp;amp;t=travelog008-20&amp;amp;tracking_id=travelog008-20&quot; width=&quot;728&quot; height=&quot;90&quot; scrolling=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; style=&quot;border:none;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+amzn_assoc_placement = &quot;adunit0&quot;;
+amzn_assoc_tracking_id = &quot;travelog008-20&quot;;
+amzn_assoc_ad_mode = &quot;manual&quot;;
+amzn_assoc_ad_type = &quot;smart&quot;;
+amzn_assoc_marketplace = &quot;amazon&quot;;
+amzn_assoc_region = &quot;US&quot;;
+amzn_assoc_linkid = &quot;e8d80496f7bd353d794d01bf039e566d&quot;;
+amzn_assoc_asins = &quot;B00PX8CNCM,B07PP3DSZK,B07F3DVWPJ,B00IQ2S6BY&quot;;
+amzn_assoc_search_bar = &quot;false&quot;;
+amzn_assoc_title = &quot;My recommended gears&quot;;
+&lt;/script&gt;
+
+&lt;script src=&quot;//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&quot;&gt;&lt;/script&gt;
 
 &lt;div class=&quot;post-image&quot;&gt;
     &lt;img src=&quot;img/windfarm/DSC02420.png&quot; /&gt;
