@@ -4,7 +4,7 @@ title: "Crate Lake National Park"
 date: 2019-05-26
 location: Crater Lake, Oregon
 ---
-Crater Lake with it incredibly blue water is the deepest lake in the United States. At 1,943 feet, it is the second deepest in the Western Hemisphere and the ninth deepest in the world. Crater Lake is a recognized scenic wonder surrounded by rolling mountains, volcanic peaks and evergreen forests. The cinder cone in the lake, known as Wizard Island, rises 763 feet above the water.
+Crater Lake with its incredibly blue water is the deepest lake in the United States. At 1,943 feet, it is the second deepest in the Western Hemisphere and the ninth deepest in the world. Crater Lake is a recognized scenic wonder surrounded by rolling mountains, volcanic peaks and evergreen forests. The cinder cone in the lake, known as Wizard Island, rises 763 feet above the water.
 
 
 <div id="amzn-assoc-ad-962a90b9-f11b-4b3e-9bea-f4082e83e1e6"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=962a90b9-f11b-4b3e-9bea-f4082e83e1e6"></script>
