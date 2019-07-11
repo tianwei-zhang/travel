@@ -10,6 +10,26 @@ Crater Lake with its incredibly blue water is the deepest lake in the United Sta
 <div id="amzn-assoc-ad-962a90b9-f11b-4b3e-9bea-f4082e83e1e6"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=962a90b9-f11b-4b3e-9bea-f4082e83e1e6"></script>
 
 
+<div class="alignleft">
+     <script type="text/javascript">
+       	amzn_assoc_ad_type = "banner";
+	amzn_assoc_marketplace = "amazon";
+	amzn_assoc_region = "US";
+	amzn_assoc_placement = "assoc_banner_placement_default";
+	amzn_assoc_campaigns = "primemain";
+	amzn_assoc_banner_type = "category";
+	amzn_assoc_p = "48";
+	amzn_assoc_isresponsive = "false";
+	amzn_assoc_banner_id = "17T0MQR5WKGJCZNRHCG2";
+	amzn_assoc_width = "728";
+	amzn_assoc_height = "90";
+	amzn_assoc_tracking_id = "travelog008-20";
+	amzn_assoc_linkid = "2221e1abb40c84a312a92041f448ffcd";
+     </script>
+     <script src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1"></script>
+    </div>
+
+
 I started the journey from San Fransisco and drove north on I-5. Once I was near Oregon, the scenery was incredible with snowy peaks and vast redwood forests. Mt. Shasta, the second-highest peak in the Cascade Range, was especially breathtaking. You can see it while on highway I-5.
 
 <div class="post-image">
@@ -42,14 +62,16 @@ I started the journey from San Fransisco and drove north on I-5. Once I was near
 	amzn_assoc_placement = "assoc_banner_placement_default";
 	amzn_assoc_campaigns = "amazonfresh";
 	amzn_assoc_banner_type = "category";
-	amzn_assoc_isresponsive = "true";
+	amzn_assoc_p = "48";
+	amzn_assoc_isresponsive = "false";
 	amzn_assoc_banner_id = "1MQYS9XC8GMVG3JVDPG2";
+	amzn_assoc_width = "728";
+	amzn_assoc_height = "90";
 	amzn_assoc_tracking_id = "travelog008-20";
-	amzn_assoc_linkid = "9f069d8502653474db97e8b26fd58b77";
+	amzn_assoc_linkid = "573dee6fcedc718964a11ddd3684ab1e";
      </script>
      <script src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1"></script>
     </div>
-
 
 
 When I first arrived at the Crater Lake National Park, it started snowing at the end of May! Just moved from Boston to San Fransisco, I reunited with winter snows after 9 months. Luckily, I still had my snow brush in my car and was able to clean 7 inches of snow. It was extremely foggy after a whole night of snowing; I couldn't see the lake at all even standing just at the edge of the lake! Luckily, Oregon is incredibly beautiful. I especially recommend driving [The Volcanic Legacy Scenic Byway](https://en.wikipedia.org/wiki/Volcanic_Legacy_Scenic_Byway). It is roughly 500 miles long and the section near Crater Lake National Park is dotted with cattle farms, beautiful lagoons, and national forests.
@@ -76,10 +98,13 @@ When I first arrived at the Crater Lake National Park, it started snowing at the
 	amzn_assoc_placement = "assoc_banner_placement_default";
 	amzn_assoc_campaigns = "audible";
 	amzn_assoc_banner_type = "category";
-	amzn_assoc_isresponsive = "true";
+	amzn_assoc_p = "48";
+	amzn_assoc_isresponsive = "false";
 	amzn_assoc_banner_id = "1P30Y4SND0J2WWAXDEG2";
+	amzn_assoc_width = "728";
+	amzn_assoc_height = "90";
 	amzn_assoc_tracking_id = "travelog008-20";
-	amzn_assoc_linkid = "9e29ee1d7c69e0865870e08c2a0a7b71";
+	amzn_assoc_linkid = "2e6382cc044ee7d82f110d594a2d3afd";
      </script>
      <script src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1"></script>
     </div>

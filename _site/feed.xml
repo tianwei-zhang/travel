@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Jul 2019 03:05:25 -0700</pubDate>
-    <lastBuildDate>Wed, 10 Jul 2019 03:05:25 -0700</lastBuildDate>
+    <pubDate>Wed, 10 Jul 2019 19:15:22 -0700</pubDate>
+    <lastBuildDate>Wed, 10 Jul 2019 19:15:22 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -16,6 +16,25 @@
 
 &lt;div id=&quot;amzn-assoc-ad-962a90b9-f11b-4b3e-9bea-f4082e83e1e6&quot;&gt;&lt;/div&gt;
 &lt;script async=&quot;&quot; src=&quot;//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;amp;adInstanceId=962a90b9-f11b-4b3e-9bea-f4082e83e1e6&quot;&gt;&lt;/script&gt;
+
+&lt;div class=&quot;alignleft&quot;&gt;
+     &lt;script type=&quot;text/javascript&quot;&gt;
+       	amzn_assoc_ad_type = &quot;banner&quot;;
+	amzn_assoc_marketplace = &quot;amazon&quot;;
+	amzn_assoc_region = &quot;US&quot;;
+	amzn_assoc_placement = &quot;assoc_banner_placement_default&quot;;
+	amzn_assoc_campaigns = &quot;primemain&quot;;
+	amzn_assoc_banner_type = &quot;category&quot;;
+	amzn_assoc_p = &quot;48&quot;;
+	amzn_assoc_isresponsive = &quot;false&quot;;
+	amzn_assoc_banner_id = &quot;17T0MQR5WKGJCZNRHCG2&quot;;
+	amzn_assoc_width = &quot;728&quot;;
+	amzn_assoc_height = &quot;90&quot;;
+	amzn_assoc_tracking_id = &quot;travelog008-20&quot;;
+	amzn_assoc_linkid = &quot;2221e1abb40c84a312a92041f448ffcd&quot;;
+     &lt;/script&gt;
+     &lt;script src=&quot;//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;amp;Operation=GetScript&amp;amp;ID=OneJS&amp;amp;WS=1&quot;&gt;&lt;/script&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;I started the journey from San Fransisco and drove north on I-5. Once I was near Oregon, the scenery was incredible with snowy peaks and vast redwood forests. Mt. Shasta, the second-highest peak in the Cascade Range, was especially breathtaking. You can see it while on highway I-5.&lt;/p&gt;
 
@@ -49,10 +68,13 @@
 	amzn_assoc_placement = &quot;assoc_banner_placement_default&quot;;
 	amzn_assoc_campaigns = &quot;amazonfresh&quot;;
 	amzn_assoc_banner_type = &quot;category&quot;;
-	amzn_assoc_isresponsive = &quot;true&quot;;
+	amzn_assoc_p = &quot;48&quot;;
+	amzn_assoc_isresponsive = &quot;false&quot;;
 	amzn_assoc_banner_id = &quot;1MQYS9XC8GMVG3JVDPG2&quot;;
+	amzn_assoc_width = &quot;728&quot;;
+	amzn_assoc_height = &quot;90&quot;;
 	amzn_assoc_tracking_id = &quot;travelog008-20&quot;;
-	amzn_assoc_linkid = &quot;9f069d8502653474db97e8b26fd58b77&quot;;
+	amzn_assoc_linkid = &quot;573dee6fcedc718964a11ddd3684ab1e&quot;;
      &lt;/script&gt;
      &lt;script src=&quot;//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;amp;Operation=GetScript&amp;amp;ID=OneJS&amp;amp;WS=1&quot;&gt;&lt;/script&gt;
     &lt;/div&gt;
@@ -81,10 +103,13 @@
 	amzn_assoc_placement = &quot;assoc_banner_placement_default&quot;;
 	amzn_assoc_campaigns = &quot;audible&quot;;
 	amzn_assoc_banner_type = &quot;category&quot;;
-	amzn_assoc_isresponsive = &quot;true&quot;;
+	amzn_assoc_p = &quot;48&quot;;
+	amzn_assoc_isresponsive = &quot;false&quot;;
 	amzn_assoc_banner_id = &quot;1P30Y4SND0J2WWAXDEG2&quot;;
+	amzn_assoc_width = &quot;728&quot;;
+	amzn_assoc_height = &quot;90&quot;;
 	amzn_assoc_tracking_id = &quot;travelog008-20&quot;;
-	amzn_assoc_linkid = &quot;9e29ee1d7c69e0865870e08c2a0a7b71&quot;;
+	amzn_assoc_linkid = &quot;2e6382cc044ee7d82f110d594a2d3afd&quot;;
      &lt;/script&gt;
      &lt;script src=&quot;//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;amp;Operation=GetScript&amp;amp;ID=OneJS&amp;amp;WS=1&quot;&gt;&lt;/script&gt;
     &lt;/div&gt;
