@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Jul 2019 00:36:07 -0700</pubDate>
-    <lastBuildDate>Fri, 12 Jul 2019 00:36:07 -0700</lastBuildDate>
+    <pubDate>Tue, 16 Jul 2019 19:15:49 -0700</pubDate>
+    <lastBuildDate>Tue, 16 Jul 2019 19:15:49 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -497,6 +497,25 @@ amzn_assoc_title = &quot;My recommended gears&quot;;
 
 &lt;script src=&quot;//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&quot;&gt;&lt;/script&gt;
 
+&lt;div class=&quot;alignleft&quot;&gt;
+     &lt;script type=&quot;text/javascript&quot;&gt;
+       	amzn_assoc_ad_type = &quot;banner&quot;;
+	amzn_assoc_marketplace = &quot;amazon&quot;;
+	amzn_assoc_region = &quot;US&quot;;
+	amzn_assoc_placement = &quot;assoc_banner_placement_default&quot;;
+	amzn_assoc_campaigns = &quot;primemain&quot;;
+	amzn_assoc_banner_type = &quot;category&quot;;
+	amzn_assoc_p = &quot;13&quot;;
+	amzn_assoc_isresponsive = &quot;false&quot;;
+	amzn_assoc_banner_id = &quot;0KGQBGGDPF1BVBFX4BG2&quot;;
+	amzn_assoc_width = &quot;468&quot;;
+	amzn_assoc_height = &quot;60&quot;;
+	amzn_assoc_tracking_id = &quot;travelog008-20&quot;;
+	amzn_assoc_linkid = &quot;c09d186fdfa263fb734f37fd6791d122&quot;;
+     &lt;/script&gt;
+     &lt;script src=&quot;//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;amp;Operation=GetScript&amp;amp;ID=OneJS&amp;amp;WS=1&quot;&gt;&lt;/script&gt;
+    &lt;/div&gt;
+
 &lt;div class=&quot;post-image&quot;&gt;
     &lt;img src=&quot;img/japan/tokyo/DSC00036.jpg&quot; /&gt;
 &lt;/div&gt;
@@ -509,6 +528,9 @@ amzn_assoc_title = &quot;My recommended gears&quot;;
 &lt;div class=&quot;post-image&quot;&gt;
     &lt;img src=&quot;img/japan/tokyo/DSC00121.jpg&quot; /&gt;
 &lt;/div&gt;
+
+&lt;div id=&quot;amzn-assoc-ad-962a90b9-f11b-4b3e-9bea-f4082e83e1e6&quot;&gt;&lt;/div&gt;
+&lt;script async=&quot;&quot; src=&quot;//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;amp;adInstanceId=962a90b9-f11b-4b3e-9bea-f4082e83e1e6&quot;&gt;&lt;/script&gt;
 
 &lt;h2 id=&quot;day-2---tokyo&quot;&gt;Day 2 - Tokyo&lt;/h2&gt;
 &lt;p&gt;The Imperial Palace East Gardens (not recommended) -&amp;gt; Asakusa (so many people)&lt;/p&gt;
@@ -536,11 +558,34 @@ amzn_assoc_title = &quot;My recommended gears&quot;;
     &lt;img src=&quot;img/japan/tokyo/DSC00322.jpg&quot; /&gt;
 &lt;/div&gt;
 
+&lt;div id=&quot;amzn-assoc-ad-0eb3cc3e-e4f0-4d45-9d98-d0e345a36403&quot;&gt;&lt;/div&gt;
+&lt;script async=&quot;&quot; src=&quot;//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;amp;adInstanceId=0eb3cc3e-e4f0-4d45-9d98-d0e345a36403&quot;&gt;&lt;/script&gt;
+
 &lt;h2 id=&quot;day-4---tokyo&quot;&gt;Day 4 - Tokyo&lt;/h2&gt;
 &lt;p&gt;Shinjuku Gyoen National Garden -&amp;gt; Shibuya -&amp;gt; Akihabara&lt;/p&gt;
 
 &lt;h2 id=&quot;day-5---hakone&quot;&gt;Day 5 - Hakone&lt;/h2&gt;
 &lt;p&gt;I was only staying at Hakone for one day, and it was pouring. If you are looking for an Ryokan, I recommend &lt;a href=&quot;www.hakone-koyoi.jp&quot;&gt;Hakone Koyoi&lt;/a&gt;. Semi open-air bath with a mountain view, good breakfast, and amazing customer service.&lt;/p&gt;
+
+&lt;div class=&quot;alignleft&quot;&gt;
+     &lt;script type=&quot;text/javascript&quot;&gt;
+       	amzn_assoc_ad_type = &quot;banner&quot;;
+	amzn_assoc_marketplace = &quot;amazon&quot;;
+	amzn_assoc_region = &quot;US&quot;;
+	amzn_assoc_placement = &quot;assoc_banner_placement_default&quot;;
+	amzn_assoc_campaigns = &quot;amazonfresh&quot;;
+	amzn_assoc_banner_type = &quot;category&quot;;
+	amzn_assoc_p = &quot;13&quot;;
+	amzn_assoc_isresponsive = &quot;false&quot;;
+	amzn_assoc_banner_id = &quot;08DNQH4XQQK7A1JK7NG2&quot;;
+	amzn_assoc_width = &quot;468&quot;;
+	amzn_assoc_height = &quot;60&quot;;
+	amzn_assoc_tracking_id = &quot;travelog008-20&quot;;
+	amzn_assoc_linkid = &quot;365e83fd0f2418a83ad3864456c21a4f&quot;;
+     &lt;/script&gt;
+     &lt;script src=&quot;//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;amp;Operation=GetScript&amp;amp;ID=OneJS&amp;amp;WS=1&quot;&gt;&lt;/script&gt;
+    &lt;/div&gt;
+
 &lt;div class=&quot;post-image&quot;&gt;
     &lt;img src=&quot;img/japan/tokyo/DSC01596.jpg&quot; /&gt;
 &lt;/div&gt;
@@ -568,6 +613,10 @@ amzn_assoc_title = &quot;My recommended gears&quot;;
 &lt;div class=&quot;post-image&quot;&gt;
     &lt;img src=&quot;img/japan/kyoto/IMG_0237.jpg&quot; /&gt;
 &lt;/div&gt;
+
+&lt;div id=&quot;amzn-assoc-ad-583e4c77-30c6-4f2e-a2c0-152205f15d1e&quot;&gt;&lt;/div&gt;
+&lt;script async=&quot;&quot; src=&quot;//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;amp;adInstanceId=583e4c77-30c6-4f2e-a2c0-152205f15d1e&quot;&gt;&lt;/script&gt;
+
 &lt;h2 id=&quot;day-8---kyoto&quot;&gt;Day 8 - Kyoto&lt;/h2&gt;
 &lt;p&gt;Higashiyama District -&amp;gt; Kiyomizudera Temple -&amp;gt; Maruyama Park -&amp;gt; Nishiki Market/Gion -&amp;gt; Chion-in Temple -&amp;gt; Ginkaku-ji Temple&lt;/p&gt;
 &lt;div class=&quot;post-image&quot;&gt;
@@ -587,6 +636,26 @@ amzn_assoc_title = &quot;My recommended gears&quot;;
 &lt;/div&gt;
 &lt;h2 id=&quot;day-9---kyoto&quot;&gt;Day 9 - Kyoto&lt;/h2&gt;
 &lt;p&gt;Fushimi Inari (a lot of people until you reach the top) -&amp;gt; Tenryu-ji Temple -&amp;gt; Arashiyama Bamboo Grove (too many people) -&amp;gt; Togetsukyo Bridge (Arashiyana Yoshimura) -&amp;gt; Monkey Park Iwatayama -&amp;gt; Gio-ji temple&lt;/p&gt;
+
+&lt;div class=&quot;alignleft&quot;&gt;
+     &lt;script type=&quot;text/javascript&quot;&gt;
+       	amzn_assoc_ad_type = &quot;banner&quot;;
+	amzn_assoc_marketplace = &quot;amazon&quot;;
+	amzn_assoc_region = &quot;US&quot;;
+	amzn_assoc_placement = &quot;assoc_banner_placement_default&quot;;
+	amzn_assoc_campaigns = &quot;audible&quot;;
+	amzn_assoc_banner_type = &quot;category&quot;;
+	amzn_assoc_p = &quot;26&quot;;
+	amzn_assoc_isresponsive = &quot;false&quot;;
+	amzn_assoc_banner_id = &quot;1AVGJZ5KKS7WEBZ6YE02&quot;;
+	amzn_assoc_width = &quot;468&quot;;
+	amzn_assoc_height = &quot;60&quot;;
+	amzn_assoc_tracking_id = &quot;travelog008-20&quot;;
+	amzn_assoc_linkid = &quot;c325d3038ee477518f35e9076c518459&quot;;
+     &lt;/script&gt;
+     &lt;script src=&quot;//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;amp;Operation=GetScript&amp;amp;ID=OneJS&amp;amp;WS=1&quot;&gt;&lt;/script&gt;
+    &lt;/div&gt;
+
 &lt;div class=&quot;post-image&quot;&gt;
     &lt;img src=&quot;img/japan/kyoto/DSC00862.jpg&quot; /&gt;
 &lt;/div&gt;
@@ -602,6 +671,9 @@ amzn_assoc_title = &quot;My recommended gears&quot;;
     &lt;img src=&quot;img/japan/kyoto/DSC01044.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;h2 id=&quot;day-11---nara&quot;&gt;Day 11 - Nara&lt;/h2&gt;
+&lt;div id=&quot;amzn-assoc-ad-bc8e9634-2454-4b9c-9078-27f3b7eedb47&quot;&gt;&lt;/div&gt;
+&lt;script async=&quot;&quot; src=&quot;//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;amp;adInstanceId=bc8e9634-2454-4b9c-9078-27f3b7eedb47&quot;&gt;&lt;/script&gt;
+
 &lt;div class=&quot;post-image&quot;&gt;
     &lt;img src=&quot;img/japan/kyoto/DSC01240.jpg&quot; /&gt;
 &lt;/div&gt;
@@ -623,6 +695,21 @@ amzn_assoc_title = &quot;My recommended gears&quot;;
 
 &lt;div id=&quot;amzn-assoc-ad-bc8e9634-2454-4b9c-9078-27f3b7eedb47&quot;&gt;&lt;/div&gt;
 &lt;script async=&quot;&quot; src=&quot;//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;amp;adInstanceId=bc8e9634-2454-4b9c-9078-27f3b7eedb47&quot;&gt;&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+amzn_assoc_placement = &quot;adunit0&quot;;
+amzn_assoc_tracking_id = &quot;travelog008-20&quot;;
+amzn_assoc_ad_mode = &quot;manual&quot;;
+amzn_assoc_ad_type = &quot;smart&quot;;
+amzn_assoc_marketplace = &quot;amazon&quot;;
+amzn_assoc_region = &quot;US&quot;;
+amzn_assoc_linkid = &quot;e8d80496f7bd353d794d01bf039e566d&quot;;
+amzn_assoc_asins = &quot;B00PX8CNCM,B07PP3DSZK,B07F3DVWPJ,B00IQ2S6BY&quot;;
+amzn_assoc_search_bar = &quot;false&quot;;
+amzn_assoc_title = &quot;My recommended gears&quot;;
+&lt;/script&gt;
+
+&lt;script src=&quot;//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;My gear:&lt;/p&gt;
 
