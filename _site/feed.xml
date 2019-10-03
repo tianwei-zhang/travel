@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Jul 2019 19:15:49 -0700</pubDate>
-    <lastBuildDate>Tue, 16 Jul 2019 19:15:49 -0700</lastBuildDate>
+    <pubDate>Thu, 18 Jul 2019 17:34:54 -0700</pubDate>
+    <lastBuildDate>Thu, 18 Jul 2019 17:34:54 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -517,16 +517,16 @@ amzn_assoc_title = &quot;My recommended gears&quot;;
     &lt;/div&gt;
 
 &lt;div class=&quot;post-image&quot;&gt;
-    &lt;img src=&quot;img/japan/tokyo/DSC00036.jpg&quot; /&gt;
+    &lt;img src=&quot;img/japan/tokyo/Hamarikyu Garden 1.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;post-image&quot;&gt;
-    &lt;img src=&quot;img/japan/tokyo/DSC00063.jpg&quot; /&gt;
+    &lt;img src=&quot;img/japan/tokyo/Hamarikyu Garden 2.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;post-image&quot;&gt;
-    &lt;img src=&quot;img/japan/tokyo/DSC00093.jpg&quot; /&gt;
+    &lt;img src=&quot;img/japan/tokyo/Meiji Shrine 1.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;post-image&quot;&gt;
-    &lt;img src=&quot;img/japan/tokyo/DSC00121.jpg&quot; /&gt;
+    &lt;img src=&quot;img/japan/tokyo/Meiji Shrine 2.jpg&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div id=&quot;amzn-assoc-ad-962a90b9-f11b-4b3e-9bea-f4082e83e1e6&quot;&gt;&lt;/div&gt;
@@ -542,7 +542,7 @@ amzn_assoc_title = &quot;My recommended gears&quot;;
 &lt;p&gt;Shin-kyo -&amp;gt; Rinno-ji -&amp;gt; Tosho-gu -&amp;gt; Shoyo-en&lt;/p&gt;
 
 &lt;div class=&quot;post-image&quot;&gt;
-    &lt;img src=&quot;img/japan/tokyo/DSC00182.jpg&quot; /&gt;
+    &lt;img src=&quot;img/japan/tokyo/Shinkyo Bridge.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;post-image&quot;&gt;
     &lt;img src=&quot;img/japan/tokyo/DSC00210.jpg&quot; /&gt;
@@ -552,7 +552,7 @@ amzn_assoc_title = &quot;My recommended gears&quot;;
     &lt;img src=&quot;img/japan/tokyo/DSC00338.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;post-image&quot;&gt;
-    &lt;img src=&quot;img/japan/tokyo/DSC00244.jpg&quot; /&gt;
+    &lt;img src=&quot;img/japan/tokyo/Tosho-gu.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;post-image&quot;&gt;
     &lt;img src=&quot;img/japan/tokyo/DSC00322.jpg&quot; /&gt;
@@ -587,7 +587,8 @@ amzn_assoc_title = &quot;My recommended gears&quot;;
     &lt;/div&gt;
 
 &lt;div class=&quot;post-image&quot;&gt;
-    &lt;img src=&quot;img/japan/tokyo/DSC01596.jpg&quot; /&gt;
+    &lt;img src=&quot;img/japan/tokyo/Hakone Shrine.jpg&quot; /&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt; Hakone Shrine &lt;/p&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&quot;day-6---hakone---kyoto&quot;&gt;Day 6 - Hakone -&amp;gt; Kyoto&lt;/h2&gt;
@@ -597,21 +598,24 @@ amzn_assoc_title = &quot;My recommended gears&quot;;
 &lt;h2 id=&quot;day-7---kyoto&quot;&gt;Day 7 - Kyoto&lt;/h2&gt;
 &lt;p&gt;Shimogamo Shrine -&amp;gt; Kyoto Imperial Palace (Not recommended)-&amp;gt; Sanjusangendo Temple -&amp;gt; Higashi Honganji Temple -&amp;gt; Guilo Guilo Hitoshina (Dinner)&lt;/p&gt;
 &lt;div class=&quot;post-image&quot;&gt;
-    &lt;img src=&quot;img/japan/kyoto/DSC00514.jpg&quot; /&gt;
+    &lt;img src=&quot;img/japan/kyoto/Shimogamo Shrine.jpg&quot; /&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt; Shimogamo Shrine &lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;post-image&quot;&gt;
-    &lt;img src=&quot;img/japan/kyoto/DSC00614.jpg&quot; /&gt;
+    &lt;img src=&quot;img/japan/kyoto/Higashi Honganji Temple.jpg&quot; /&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt; Higashi Honganji Temple &lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
-    &lt;img src=&quot;img/japan/kyoto/IMG_0230.jpg&quot; /&gt;
-    &lt;img src=&quot;img/japan/kyoto/IMG_0235.jpg&quot; /&gt;
+    &lt;img src=&quot;img/japan/kyoto/Guilo Guilo 1.jpg&quot; /&gt;
+    &lt;img src=&quot;img/japan/kyoto/Guilo Guilo 2.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
-    &lt;img src=&quot;img/japan/kyoto/IMG_0236.jpg&quot; /&gt;
-    &lt;img src=&quot;img/japan/kyoto/IMG_0238.jpg&quot; /&gt;
+    &lt;img src=&quot;img/japan/kyoto/Guilo Guilo 3.jpg&quot; /&gt;
+    &lt;img src=&quot;img/japan/kyoto/Guilo Guilo 4.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;post-image&quot;&gt;
-    &lt;img src=&quot;img/japan/kyoto/IMG_0237.jpg&quot; /&gt;
+    &lt;img src=&quot;img/japan/kyoto/Guilo Guilo 5.jpg&quot; /&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt; Dinner at Guilo Guilo Hitoshina &lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div id=&quot;amzn-assoc-ad-583e4c77-30c6-4f2e-a2c0-152205f15d1e&quot;&gt;&lt;/div&gt;
